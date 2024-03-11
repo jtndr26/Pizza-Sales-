@@ -83,7 +83,8 @@ The approach for this project using Tableau involves several key steps to effect
 
 - ![image](https://github.com/jtndr26/Pizza-Sales-/assets/78334379/977727b7-f17c-4bda-9e49-28e4e0f54de5)
 - ![image](https://github.com/jtndr26/Pizza-Sales-/assets/78334379/ec7c2e30-5bb5-4a4b-bb0e-0a783f76a735)
-- ![image](https://github.com/jtndr26/Pizza-Sales-/assets/78334379/34d72caa-3a58-4d15-9f33-7f8952a41f14)
+- ![image](https://github.com/jtndr26/Pizza-Sales-/assets/78334379/b9ce2bb9-b95b-491b-8dea-36cc90ab9472)
+
 
 
 
